@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for source-bound address-event link observation. No traffic generator, capture operation, qualified link report or physical measurement is released.",
+  "keywords": [
+    "address-event representation",
+    "neuromorphic interconnect",
+    "traffic observation",
+    "reproducibility"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "AER Link Witness",
+  "upload_type": "software"
+}
