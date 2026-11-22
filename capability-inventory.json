@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "AER-LINK-WITNESS",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "dfb449d74ffc82dc942a0f3457cbdad1c78b74238807838cdea8cf31c045f112"
+    "sha256": "6b726f0f809356e006b98ef30861a7adc76bd1a2b818dd07ae83b5c48756a9e2"
   }
 }

@@ -12,6 +12,8 @@ AER-LINK-WITNESS — repository foundation
 
 AER Link Witness is being built to observe address-event links and routers under complete prior traffic schedules, locating loss, duplicate delivery, reorder, service delay and lack of progress. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed link-analysis package, traffic generator, public link-analysis command or qualified link report.
 
+AER Link Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns the intended instrument generator and monitor, traffic schedules, independent sequence and pending-work analysis, and report. SC-NeuroCore owns the implementations under test. Loop Timing Witness supplies the actual capture, timebase, instrument acceptance and target adapters. Evidence Manifest Toolkit supplies shared evidence operations.
