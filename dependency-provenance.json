@@ -3738,7 +3738,7 @@
       ".github/workflows/codeql.yml": "60178a6374195dd2713ec8433446c855bc24c9aee0b257fe45da906f8b18981b",
       ".github/workflows/docs.yml": "38ec3199c731a3f2fc05400ebb3567ffa08af6b9bb7734a8925f02d3ac42806f",
       ".github/workflows/pre-commit.yml": "0af0e8dd32fdf4c1fc71eb865da8c751ae7b34802b465e1c7208014b04934ed4",
-      ".github/workflows/sbom.yml": "30d5350b534c3bc0dc9ee189009f61ab05158cc894c01e12801a28782d523160",
+      ".github/workflows/sbom.yml": "d8a3ef6128dc7d20546827a0101d85dd49c120f56e325225c0a459bdd9f9bfa4",
       ".github/workflows/scorecard.yml": "6daa55c63fd3b228e9ced25220fd7c643670c15d845b31cceff96b9fa6308a0f",
       ".github/workflows/security-audit.yml": "5f3c65096bd831ab1e6e7b76f99ab04c952e88b4c7d8a5253f98f2791fbd60c1",
       ".pre-commit-config.yaml": "bb5e125587f29d2b18113be7767f818130d24d91a564ab53f317d5318c3b1f2a",
